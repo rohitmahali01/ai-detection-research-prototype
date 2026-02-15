@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+numpy
+plotly
+nltk
+spacy
+scipy
+# The line below installs the specific Spacy language model required by your code
+https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
